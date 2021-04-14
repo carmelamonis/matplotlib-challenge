@@ -77,3 +77,11 @@ Here are some final considerations:
 ### Copyright
 
 Trilogy Education Services © 2020. All Rights Reserved.
+
+
+
+
+
+
+#https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.aggregate.html
+#https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html
